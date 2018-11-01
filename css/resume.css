@@ -10,14 +10,20 @@ body {
   color: #868e96;
 }
 
+.picture{
+  padding-left:20px;
+}
 
-
-#about.resume-section{
-  /*background-image: url('../img/home.JPG'); */
-  max-width:100%;
+.my-auto{
+  max-width:65%;
+  max-height:100%;
+}
+/*#about.resume-section{
+  background-image: url('../img/home.JPG'); 
+  max-width:65%;
   max-height:100%;
   opacity: 1;
-}
+}*/
 
 @media (min-width: 992px) {
   body {
