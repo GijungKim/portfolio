@@ -24,12 +24,17 @@ body {
 
 .card-body1{
   width: 950px;
-  height: 800px;
+  height: 1100px;
+}
+
+.card-body2{
+  width: 950px;
+  height: 1850px;
 }
 
 .card-body4{
   width: 950px;
-  height: 3000px;
+  height: 2650px;
 }
 
 
