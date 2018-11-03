@@ -10,20 +10,34 @@ body {
   color: #868e96;
 }
 
+.btn-primary{
+  width: 500px;
+}
+
 .picture{
   padding-left:20px;
 }
+
+.resume-content *{
+  padding: 5px 10px;
+}
+
+.card-body1{
+  width: 950px;
+  height: 800px;
+}
+
+.card-body4{
+  width: 950px;
+  height: 3000px;
+}
+
+
 
 .my-auto{
   max-width:65%;
   max-height:100%;
 }
-/*#about.resume-section{
-  background-image: url('../img/home.JPG'); 
-  max-width:65%;
-  max-height:100%;
-  opacity: 1;
-}*/
 
 @media (min-width: 992px) {
   body {
