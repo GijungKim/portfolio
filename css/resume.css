@@ -10,6 +10,7 @@ body {
   color: #868e96;
 }
 
+
 .btn-primary{
   width: 500px;
 }
@@ -32,6 +33,11 @@ body {
   height: 1850px;
 }
 
+.card-body3{
+  width: 950px;
+  height: 2070px;
+}
+
 .card-body4{
   width: 950px;
   height: 2650px;
@@ -40,7 +46,7 @@ body {
 
 
 .my-auto{
-  max-width:65%;
+  max-width:70%;
   max-height:100%;
 }
 
